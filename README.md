@@ -7,7 +7,7 @@ This project involves an Arduino-based robot car that can be controlled via Blue
 - Module H Bridge L298
 - Motor driver
 - DC motors (2 or 4)
-- Bluetooth module
+- Bluetooth module HC-05
 - Jumper wires
 - Breadboard (optional)
 # Software Requirements
